@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lolmos/statictestting.png?label=ready&title=Ready)](https://waffle.io/lolmos/statictestting)
 
 # statictestting
 just goofing around with static stuff
